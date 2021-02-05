@@ -74,7 +74,7 @@
 }
 @keyframes gira {
     0% {
-        transform: rotate(1turn);
+        transform: rotate(360deg);
        }
 }
 /*--- Esercizio 11 ---*/
